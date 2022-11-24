@@ -3,4 +3,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-![snake gif](https://github.com/Semenov-D/Semenov-D/blob/output/github-contribution-grid-snake.svg)
+![Semenov-D snake sng](https://github.com/Semenov-D/Semenov-D/blob/output/github-contribution-grid-snake.svg)
