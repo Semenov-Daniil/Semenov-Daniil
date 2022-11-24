@@ -4,4 +4,4 @@
 
 
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-![Semenov-D snake sng](https://github.com/Semenov-D/Semenov-D/blob/output/github-contribution-grid-snake.svg)
+![Semenov-D snake sng](https://github.com/Semenov-D/Semenov-D/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
