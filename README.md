@@ -3,4 +3,5 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 ![Semenov-D snake sng](https://github.com/Semenov-D/Semenov-D/blob/output/github-contribution-grid-snake.svg)
