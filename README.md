@@ -1,7 +1,51 @@
 
-<h1 align="center">Hi there, I'm <a href="https://vk.com/semendaniel" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+**Hi there, I'm _[Daniil](https://vk.com/semendaniel)_**:zzz::wave:
+
+![asd](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+---
+
+```mermaid
+graph TD;
+ A-->B;
+ A-->C;
+ B-->D;
+ C-->D;
+```
+---
+```geojson
+{
+ "type": "FeatureCollection",
+ "features": [
+ {
+ "type": "Feature",
+ "id": 1,
+ "properties": {
+ "ID": 0
+ },
+ "geometry": {
+ "type": "Polygon",
+ "coordinates": [
+ [
+ [-90,35],
+ [-90,30],
+ [-85,30],
+ [-85,35],
+ [-90,35]
+ ]
+ ]
+ }
+ }
+ ]
+}
+```
+---
 
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-![Semenov-D snake sng](https://github.com/Semenov-D/Semenov-D/blob/output/github-contribution-grid-snake.svg?palette=github-dark&color_dots=#bfd6f6)
+![Semenov-D snake sng](https://github.com/Semenov-D/Semenov-D/blob/output/github-contribution-grid-snake.svg)
+
+
+- [ ] Поставить 5
+- [x] Поставить автомат
+- [ ] \(Optional) Open a followup issue
+
+The background color should be `#ffffff` for light mode and #0d1117 for dark mode.
