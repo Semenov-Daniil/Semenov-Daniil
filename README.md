@@ -1,94 +1,52 @@
 
 # Hi there, I'm _[Daniil](https://vk.com/semendaniel)_:wave:
+:student:Student of Radio Engineering College, specialty: developer of Web and multimedia applications
 
 ---
 
-- [x] Автомат
-- [ ] Пять
+
+## My works
+| МДК.05.01 | МДК.05.02 |
+| --- | --- |
+| [Use Case diagrams](https://github.com/Semenov-D/UseCase-Diagram.git)|||
+| [Sequence diagrams](https://github.com/Semenov-D/Sequence-Diagram.git)|||
+| [ER diagrams](https://github.com/Semenov-D/ER_Diagrams.git)|||
+| [Function modeling IDEF0](https://github.com/Semenov-D/IDEF0_Function-modeling.git)|||
+| [Предметная область](https://github.com/Semenov-D/Software_Development_Company.git)|||
 
 
 ---
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+## My Languages and Tools :
+<div>
+<img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<img src= "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+<img src= "https://yt3.ggpht.com/ytc/AMLnZu-ItAScQV-9THj_C3tWFLfH2pYN5x3120QzZCar2A=s900-c-k-c0x00ffffff-no-rj" title="draw.io" **alt="draw.io" width="40" height="40"/>
+<img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" **alt="HTML5" width="40" height="40"/>
+<img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" **alt="CSS" width="40" height="40"/>
+<img src= "https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="PHP" width="40" height="40"/>
+<img src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" width="40" height="40"/>
+</div>
+
 
 ---
 
-```mermaid
-graph TD;
- A-->B;
- A-->C;
- B-->D;
- C-->D;
-```
----
-```geojson
-{
- "type": "FeatureCollection",
- "features": [
- {
- "type": "Feature",
- "id": 1,
- "properties": {
- "ID": 0
- },
- "geometry": {
- "type": "Polygon",
- "coordinates": [
- [
- [-90,35],
- [-90,30],
- [-85,30],
- [-85,35],
- [-90,35]
- ]
- ]
- }
- }
- ]
-}
-```
----
-```topojson
-{
-  "type": "Topology",
-  "transform": {
-    "scale": [0.0005000500050005, 0.00010001000100010001],
-    "translate": [100, 0]
-  },
-  "objects": {
-    "example": {
-      "type": "GeometryCollection",
-      "geometries": [
-        {
-          "type": "Point",
-          "properties": {"prop0": "value0"},
-          "coordinates": [4000, 5000]
-        },
-        {
-          "type": "LineString",
-          "properties": {"prop0": "value0", "prop1": 0},
-          "arcs": [0]
-        },
-        {
-          "type": "Polygon",
-          "properties": {"prop0": "value0",
-            "prop1": {"this": "that"}
-          },
-          "arcs": [[1]]
-        }
-      ]
-    }
-  },
-  "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
-}
-```
+
+## :fire: My Stats :
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Semenov-D&show_icons=true&bg_color=00000000)
+
+
 ---
 
 
+## :snake:Here's a snake
 ![Semenov-D snake sng](https://github.com/Semenov-D/Semenov-D/blob/output/github-contribution-grid-snake.svg)
 
 
-- [ ] Поставить 5
-- [x] Поставить автомат
-- [ ] \(Optional) Open a followup issue
+---
 
-The background color should be `#ffffff` for light mode and #0d1117 for dark mode.
+
+## :left_speech_bubble:Quotes from the public
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
