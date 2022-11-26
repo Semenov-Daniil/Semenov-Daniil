@@ -1,7 +1,5 @@
 
-**Hi there, I'm _[Daniil](https://vk.com/semendaniel)_**:zzz::wave:
-
-![asd](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+# Hi there, I'm _[Daniil](https://vk.com/semendaniel)_:wave:
 
 ---
 
