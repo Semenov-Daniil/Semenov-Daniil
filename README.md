@@ -6,13 +6,15 @@
 
 
 ## My works
-| МДК.05.01 | МДК.05.02 |
-| --- | --- |
-| [Use Case diagrams](https://github.com/Semenov-D/UseCase-Diagram.git)|||
-| [Sequence diagrams](https://github.com/Semenov-D/Sequence-Diagram.git)|||
-| [ER diagrams](https://github.com/Semenov-D/ER_Diagrams.git)|||
-| [Function modeling IDEF0](https://github.com/Semenov-D/IDEF0_Function-modeling.git)|||
-| [Предметная область](https://github.com/Semenov-D/Software_Development_Company.git)|||
+- [Use Case diagrams](https://github.com/Semenov-D/UseCase-Diagram.git)
+
+- [Sequence diagrams](https://github.com/Semenov-D/Sequence-Diagram.git)
+
+- [ER diagrams](https://github.com/Semenov-D/ER_Diagrams.git)
+
+- [Function modeling IDEF0](https://github.com/Semenov-D/IDEF0_Function-modeling.git)
+
+- [Предметная область](https://github.com/Semenov-D/Software_Development_Company.git)
 
 
 ---
