@@ -35,13 +35,6 @@
 ---
 
 
-## :fire: My Stats :
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Semenov-D&show_icons=true&bg_color=00000000)
-
-
----
-
-
 ## :snake:Here's a snake
 ![Semenov-D snake sng](https://github.com/Semenov-D/Semenov-D/blob/output/github-contribution-grid-snake.svg)
 
